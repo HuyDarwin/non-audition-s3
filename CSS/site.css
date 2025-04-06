@@ -34,9 +34,9 @@
 @font-face {
 	font-family: "Neue Helvetica Condensed 87 Heavy";
 	src:
-		url("../Fonts/neue-helvetica-condensed-87-heavy-viet-hoa-huydarwin.ttf") format("woff"),
-		url("../Fonts/neue-helvetica-condensed-87-heavy-viet-hoa-huydarwin.ttf") format("opentype"),
-		url("../Fonts/neue-helvetica-condensed-87-heavy-viet-hoa-huydarwin.ttf") format("truetype");
+		url("https://cdn.glitch.global/7269cc44-6d59-4011-b485-6b40ede0023d/Fonts%2Fneue-helvetica-condensed-87-heavy-viet-hoa-huydarwin.ttf?v=1743952647512") format("woff"),
+		url("https://cdn.glitch.global/7269cc44-6d59-4011-b485-6b40ede0023d/Fonts%2Fneue-helvetica-condensed-87-heavy-viet-hoa-huydarwin.ttf?v=1743952647512") format("opentype"),
+		url("https://cdn.glitch.global/7269cc44-6d59-4011-b485-6b40ede0023d/Fonts%2Fneue-helvetica-condensed-87-heavy-viet-hoa-huydarwin.ttf?v=1743952647512") format("truetype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
