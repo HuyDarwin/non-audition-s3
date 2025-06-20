@@ -34,13 +34,13 @@ $(function () {
 				else{
 					if(eval('data.letter_' + i) != undefined && eval('data.letter_' + i) != null){
 						if(eval('data.letter_' + i) == 0){
-							$('#letter_' + i).css('background-image', 'url("https://cdn.glitch.global/7269cc44-6d59-4011-b485-6b40ede0023d/Images%2Fgreen_letter.png?v=1743952654368")');
+							$('#letter_' + i).css('background-image', 'url("Assets/Images_green_letter.png")');
 						}
 						if(eval('data.letter_' + i) == 1 || eval('data.letter_' + i) == 3 || eval('data.letter_' + i) == 4){
-							$('#letter_' + i).css('background-image', 'url("https://cdn.glitch.global/7269cc44-6d59-4011-b485-6b40ede0023d/Images%2Fwhite_letter.png?v=1743952667541")');
+							$('#letter_' + i).css('background-image', 'url("Assets/Images_white_letter.png")');
 						}
 						if(eval('data.letter_' + i) == 2){
-							$('#letter_' + i).css('background-image', 'url("https://cdn.glitch.global/7269cc44-6d59-4011-b485-6b40ede0023d/Images%2Fblue_letter.png?v=1743952650698")');
+							$('#letter_' + i).css('background-image', 'url("Assets/Images_blue_letter.png")');
 						}
 						
 						if(eval('data.letter_' + i) == 3){
